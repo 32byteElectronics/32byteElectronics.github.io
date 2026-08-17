@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://32byteElectronics.github.io/sitemap.xml
